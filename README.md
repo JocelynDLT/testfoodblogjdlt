@@ -20,21 +20,34 @@ Certificates
 Experience
 ----------
 
-**Tech Support:**; Tseng College Distance Learning (Northridge, CA)  **2022-2023**
+**Tech Support:** Tseng College Distance Learning (Northridge, CA)  **2022-2023**
 
 * Provide tech support to faculty and students in the Master's program
 * Maintian working knowledge of Zoom, Canvas, Panopto, and Microsoft
 * Provide training to faculty regarding Zoom, Canvas, and Panopto softwares
 * Update and create manuals
 
-* First item
+**Social Media Manager/Retail Associate:** PopCave (Santa Clarita, CA)  **2022-2022**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Created and managed social media and website content
+* Utilized Instagram and Shopify to review online analytics
+* Managed store inventory and daily sales
+* Executed opening and closing procedures
 
-**That Other Job You Had**
+**Legal Assistant:** The Ticket Clinic (Studio City, CA)  **2020-2022**
 
-Also with a short description.
+* Assistant to firm's supervising attorney
+* Managed court schedules for eight attorneys in 15 counties across California
+* Communicated and coordinated between clients, court clerks, attorneys, and DA offices
+* Approved incoming cases taken in by other legal assistants
+* Provided daily and weekly reports to attorneys and firm's CEO
+
+**Retail Associate:** Mickey's of Glendale (Glendale, CA)  **2016-2020**
+
+* Cash handling, register and customer service experience
+* Assisted in visual merchandising and product development
+* New employer trainer
+* Processed and shipped onine orders domestic and international
 
 Technical Experience
 --------------------
