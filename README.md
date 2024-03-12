@@ -20,11 +20,12 @@ Certificates
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Tech Support:**; Tseng College Distance Learning (Northridge, CA)  **2022-2023**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Provide tech support to faculty and students in the Master's program
+* Maintian working knowledge of Zoom, Canvas, Panopto, and Microsoft
+* Provide training to faculty regarding Zoom, Canvas, and Panopto softwares
+* Update and create manuals
 
 * First item
 
