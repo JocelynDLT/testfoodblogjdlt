@@ -15,7 +15,7 @@ Education
 :   **BSc, Computer Science and Electrical Engineering**; University of
     HomeTown (HomeTown)
 
-![certification](foundation of pm google cerficate.png)
+![certification](cerficate.png)
     *Minor: Awesomeology*
 
 Experience
