@@ -15,7 +15,7 @@ Education
 :   **BSc, Computer Science and Electrical Engineering**; University of
     HomeTown (HomeTown)
 
-![certification](cerficate.png)
+![certification](certificate.png)
     *Minor: Awesomeology*
 
 Experience
