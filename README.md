@@ -74,15 +74,11 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
+Skills:
 ----------------------------------------
 
-* Human Languages:
-
+* Languages:
      * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
+     * Spanish (proficient)
 
 * Other sort of impressive-sounding thing you did
