@@ -5,18 +5,17 @@ Jocelyn De La Torre
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2021-2023 
+:   **BA, Communication Studies**; Califonia State University (Northridge)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2016-2020
+:   **Associate in Arts Transfer Degree, Communication Studies**; Pasadena City College
+
+Certificates
+---------
 
 ![certification](certificate.png)
-    *Minor: Awesomeology*
 
 Experience
 ----------
