@@ -82,4 +82,4 @@ Skills:
      * Spanish (proficient)
 
 * Computer Languages:
-> - Markdown (beginner)
+  * Markdown (beginner)
