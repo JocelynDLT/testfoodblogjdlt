@@ -88,6 +88,6 @@ Skills:
      * Organizational   * Client management    * Skilled collaborator   * Time management
      * Solutions oriented   *Video editing   * Prompt engineering    * Project planning
 
-**Computer Languages:**
+Computer Languages:
 --------------------
   * Markdown (beginner)
