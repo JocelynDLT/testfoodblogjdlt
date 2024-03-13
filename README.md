@@ -49,23 +49,18 @@ Experience
 * New employer trainer
 * Processed and shipped onine orders domestic and international
 
-Technical Experience
+Projects
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**D23 Expo: The Ultimate Fan Event** Shift Lead    **2017 & 2019**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Communicated and coordinated with event staff, volunteers, and Disney Parks employees
+    * Assisted in the operations of Mickey's of Glendale pin store at the Parks & Resorts Pavilion
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**Walt Disney Imagineering - Craft Fair** Coordinator
+
+    * Provided support to event producer and vendors for event
+    * Coordinated the set-up of 20+ vendor booths 
 
 Programming Languages
 :   **first-lang:** Here, we have an itemization, where we only want
