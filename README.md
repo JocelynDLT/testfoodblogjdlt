@@ -40,7 +40,7 @@ Experience
 * Approved incoming cases taken in by other legal assistants
 * Provided daily and weekly reports to attorneys and firm's CEO
 
-**Retail Associate:** Mickey's of Glendale (Glendale, CA)  *2016-2020*
+**Retail Associate:** Walt Disney Imagineering (Glendale, CA)  *2016-2020*
 
 * Cash handling, register and customer service experience
 * Assisted in visual merchandising and product development
