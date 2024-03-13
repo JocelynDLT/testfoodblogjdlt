@@ -64,7 +64,7 @@ Projects
 Skills:
 ----------------------------------------
      * English (native speaker)   * Spanish (proficient)   * Cross functional communicator   
-     * Interpersonal    * Administrative   * Computer technology   * Micrsoft Office   
+     * Interpersonal    * Administrative   * Computer technology   * Microsoft Office   
      * Organizational   * Client management    * Skilled collaborator   * Time management
      * Solutions oriented   *Video editing   * Prompt engineering    * Project planning
 
