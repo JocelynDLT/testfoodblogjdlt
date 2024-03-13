@@ -5,12 +5,10 @@ Jocelyn De La Torre
 Education
 ---------
 
-2021-2023 
-:   **BA, Communication Studies**; Califonia State University (Northridge)
+:   **BA, Communication Studies**; Califonia State University (Northridge)   **2021-2023**
 
 
-2016-2020
-:   **Associate in Arts Transfer Degree, Communication Studies**; Pasadena City College
+:   **Associate in Arts Transfer Degree, Communication Studies**; Pasadena City College   **2016-2020**
 
 Certificates
 ---------
@@ -54,13 +52,13 @@ Projects
 
 **D23 Expo: The Ultimate Fan Event** Shift Lead    **2017 & 2019**
 
-    * Communicated and coordinated with event staff, volunteers, and Disney Parks employees
-    * Assisted in the operations of Mickey's of Glendale pin store at the Parks & Resorts Pavilion
+* Communicated and coordinated with event staff, volunteers, and Disney Parks employees
+* Assisted in the operations of Mickey's of Glendale pin store at the Parks & Resorts Pavilion
 
 **Walt Disney Imagineering - Craft Fair** Coordinator
 
-    * Provided support to event producer and vendors for event
-    * Coordinated the set-up of 20+ vendor booths 
+* Provided support to event producer and vendors for event
+* Coordinated the set-up of 20+ vendor booths 
 
 Programming Languages
 :   **first-lang:** Here, we have an itemization, where we only want
@@ -85,10 +83,9 @@ Programming Languages
 
 Skills:
 ----------------------------------------
-
-* Languages:
-     * English (native speaker)
-     * Spanish (proficient)
+     * English (native speaker)   * Spanish (proficient)   * Cross functional communicator   * Interpersonal
+     * Administrative   * Computer technology   * Micrsoft Office   * Organizational   * Client management
+     * Skilled collaborator   * Time management   * Solutions oriented   *Video editing   * Prompt engineering
 
 * Computer Languages:
   * Markdown (beginner)
